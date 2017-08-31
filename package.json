@@ -1,0 +1,29 @@
+{
+  "name": "jquery.plugin.transport-xdr",
+  "version": "1.0.0",
+  "description": "基于[javascript-jquery-transport-xdr](https://github.com/gfdev/javascript-jquery-transport-xdr)修改，allows cross-domain AJAX requests (CORS) for IE8 and IE9 with XDomainRequest;",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-plugin-external-helpers": "^6.22.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "rollup": "^0.49.2",
+    "rollup-plugin-babel": "^3.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winnieBear/jquery.plugin.transport-xdr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winnieBear/jquery.plugin.transport-xdr/issues"
+  },
+  "homepage": "https://github.com/winnieBear/jquery.plugin.transport-xdr#readme"
+}

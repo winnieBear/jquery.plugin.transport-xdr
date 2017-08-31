@@ -1,2 +1,2 @@
 # jquery.plugin.transport-xdr
-jquery.plugin.transport-xdr
+ 基于[javascript-jquery-transport-xdr](https://github.com/gfdev/javascript-jquery-transport-xdr)修改，allows cross-domain AJAX requests (CORS) for IE8 and IE9 with XDomainRequest;
